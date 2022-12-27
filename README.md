@@ -6,6 +6,7 @@ Created by Natecas08
 Welcome to this cursed coding project I made at 2AM while I was bored.
 
 Here'a a bit of backstory to this project:
+
 	While I was diagnosing 3D printing issues at work, I noticed that
 	the start-up GCODE in cura has a line that writes to the printer's
 	LCD screen. Usually saying something along the lines of 
@@ -37,6 +38,7 @@ Here'a a bit of backstory to this project:
 	probably find a ton of ways to improve it.
 	
 Usage:
+
 	If you choose to run the windows installer, you will find a file named "Data.txt". This
 	is the file that you add song lyrics / words or phrases to. If you compiled the code yourself,
 	you would need to make this file. Yes, I could've had the program make it for me but like
