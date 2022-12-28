@@ -15,7 +15,7 @@ Here'a a bit of backstory to this project:
 	So changing the text in this line changed what the screen said. Thus
 	begins Operation A, which stands for Operation Astley "as in Rick Astley".
 	Me being the immature plebian I am, I wanted to rick roll people in the
-	most unpredictable way possible, which is making the 3D printers rick
+	most unexpected way possible, which is making the 3D printers rick
 	roll current and future operators. Everytime the print starts the next layer,
 	the next line within the song would be displayed.
 	
